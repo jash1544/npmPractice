@@ -1,6 +1,6 @@
 {
-	"author": "Jacob Shulman",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jacob Shulman",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
